@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "compare": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "optional": "cpp",
+        "cmath": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "variant": "cpp",
+        "forward_list": "cpp",
+        "*.ipp": "cpp"
+    }
+}
