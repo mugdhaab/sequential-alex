@@ -37,8 +37,8 @@
 
 #include "alex_base.h"
 #include "alex_fanout_tree.h"
-#include "alex_node_seq.h"
-// #include "alex_nodes.h"
+// #include "alex_node_seq.h"
+#include "alex_nodes.h"
 
 // Whether we account for floating-point precision issues when traversing down
 // ALEX.

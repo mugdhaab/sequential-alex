@@ -3,8 +3,8 @@
 
 #include "doctest.h"
 
-// #include "alex_nodes.h"
-#include "alex_node_seq.h"
+#include "alex_nodes.h"
+// #include "alex_node_seq.h"
 
 using namespace alex;
 
